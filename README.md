@@ -1,3 +1,3 @@
 # homeworkone
 
-https://sanaullah94.github.io/homeworkone/
+https://sanaaullah.github.io/homeworkone/
